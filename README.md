@@ -6,8 +6,9 @@ This is a simple display of objects created using css sytling in the eyes.css fi
 To run this copy over the attached .html .css file then load up the page. 
 
 ## Furture Improvments
-### Add in buttons to change eye color,
-### Add in a blinking feature
+Add in buttons to change eye color,
+
+Add in a blinking feature
 
 #  MIT License
 
