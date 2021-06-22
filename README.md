@@ -6,9 +6,8 @@ This is a simple display of objects created using css sytling in the eyes.css fi
 To run this copy over the attached .html .css file then load up the page. 
 
 ## Furture Improvments
-Set imaiges to cycle,
-Create a set path for Pac-Man to follow,
-Add Pellets for Pac-Man to eat.
+Add in buttons to change eye color
+Add in a blinking feature
 
 #  MIT License
 
